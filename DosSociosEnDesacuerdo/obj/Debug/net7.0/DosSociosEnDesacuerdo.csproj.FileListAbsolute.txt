@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\bin\Debug\net7.0\DosSociosEnDesacuerdo.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\bin\Debug\net7.0\DosSociosEnDesacuerdo.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\bin\Debug\net7.0\DosSociosEnDesacuerdo.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\bin\Debug\net7.0\DosSociosEnDesacuerdo.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\bin\Debug\net7.0\DosSociosEnDesacuerdo.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\DosSociosEnDesacuerdo.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\DosSociosEnDesacuerdo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\DosSociosEnDesacuerdo.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\DosSociosEnDesacuerdo.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\DosSociosEnDesacuerdo.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\DosSociosEnDesacuerdo.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\refint\DosSociosEnDesacuerdo.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\DosSociosEnDesacuerdo.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\DosSociosEnDesacuerdo.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DosSociosEnDesacuerdo\obj\Debug\net7.0\ref\DosSociosEnDesacuerdo.dll

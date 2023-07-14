@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\AlgoritmoDeEuclides.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\AlgoritmoDeEuclides.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\AlgoritmoDeEuclides.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\AlgoritmoDeEuclides.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\AlgoritmoDeEuclides.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\bin\Debug\net7.0\AlgoritmoDeEuclides.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\bin\Debug\net7.0\AlgoritmoDeEuclides.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\bin\Debug\net7.0\AlgoritmoDeEuclides.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\bin\Debug\net7.0\AlgoritmoDeEuclides.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\bin\Debug\net7.0\AlgoritmoDeEuclides.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\AlgoritmoDeEuclides.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\refint\AlgoritmoDeEuclides.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\AlgoritmoDeEuclides.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\AlgoritmoDeEuclides.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AlgoritmoDeEuclides\obj\Debug\net7.0\ref\AlgoritmoDeEuclides.dll

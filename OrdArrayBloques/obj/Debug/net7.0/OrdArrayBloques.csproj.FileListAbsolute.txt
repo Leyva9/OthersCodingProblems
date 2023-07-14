@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\bin\Debug\net7.0\OrdArrayBloques.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\bin\Debug\net7.0\OrdArrayBloques.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\bin\Debug\net7.0\OrdArrayBloques.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\bin\Debug\net7.0\OrdArrayBloques.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\bin\Debug\net7.0\OrdArrayBloques.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\OrdArrayBloques.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\OrdArrayBloques.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\OrdArrayBloques.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\OrdArrayBloques.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\OrdArrayBloques.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\OrdArrayBloques.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\refint\OrdArrayBloques.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\OrdArrayBloques.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\OrdArrayBloques.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloques\obj\Debug\net7.0\ref\OrdArrayBloques.dll

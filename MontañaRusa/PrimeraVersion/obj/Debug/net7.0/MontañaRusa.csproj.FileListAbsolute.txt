@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\bin\Debug\net7.0\MontañaRusa.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\bin\Debug\net7.0\MontañaRusa.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\bin\Debug\net7.0\MontañaRusa.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\bin\Debug\net7.0\MontañaRusa.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\bin\Debug\net7.0\MontañaRusa.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\MontañaRusa.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\MontañaRusa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\MontañaRusa.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\MontañaRusa.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\MontañaRusa.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\MontañaRusa.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\refint\MontañaRusa.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\MontañaRusa.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\MontañaRusa.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusa\obj\Debug\net7.0\ref\MontañaRusa.dll

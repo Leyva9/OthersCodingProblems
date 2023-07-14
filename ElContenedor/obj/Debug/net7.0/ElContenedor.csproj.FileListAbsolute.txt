@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\bin\Debug\net7.0\ElContenedor.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\bin\Debug\net7.0\ElContenedor.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\bin\Debug\net7.0\ElContenedor.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\bin\Debug\net7.0\ElContenedor.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\bin\Debug\net7.0\ElContenedor.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\ElContenedor.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\ElContenedor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\ElContenedor.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\ElContenedor.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\ElContenedor.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\ElContenedor.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\refint\ElContenedor.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\ElContenedor.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\ElContenedor.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ElContenedor\obj\Debug\net7.0\ref\ElContenedor.dll

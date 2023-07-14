@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\ConcatArray.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\ConcatArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\ConcatArray.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\ConcatArray.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\ConcatArray.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\refint\ConcatArray.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\ConcatArray.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\bin\Debug\net7.0\ConcatArray.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\bin\Debug\net7.0\ConcatArray.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\bin\Debug\net7.0\ConcatArray.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\bin\Debug\net7.0\ConcatArray.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\bin\Debug\net7.0\ConcatArray.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\ConcatArray.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\ConcatArray.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\ConcatArray\obj\Debug\net7.0\ref\ConcatArray.dll

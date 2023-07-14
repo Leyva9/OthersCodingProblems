@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\bin\Debug\net7.0\AereopuertoEnConstruccion.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\bin\Debug\net7.0\AereopuertoEnConstruccion.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\bin\Debug\net7.0\AereopuertoEnConstruccion.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\bin\Debug\net7.0\AereopuertoEnConstruccion.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\bin\Debug\net7.0\AereopuertoEnConstruccion.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\AereopuertoEnConstruccion.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\AereopuertoEnConstruccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\AereopuertoEnConstruccion.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\AereopuertoEnConstruccion.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\AereopuertoEnConstruccion.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\AereopuertoEnConstruccion.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\refint\AereopuertoEnConstruccion.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\AereopuertoEnConstruccion.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\AereopuertoEnConstruccion.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\obj\Debug\net7.0\ref\AereopuertoEnConstruccion.dll

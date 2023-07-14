@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\bin\Debug\net7.0\CaminosyEnergia.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\bin\Debug\net7.0\CaminosyEnergia.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\bin\Debug\net7.0\CaminosyEnergia.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\bin\Debug\net7.0\CaminosyEnergia.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\bin\Debug\net7.0\CaminosyEnergia.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\CaminosyEnergia.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\CaminosyEnergia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\CaminosyEnergia.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\CaminosyEnergia.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\CaminosyEnergia.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\CaminosyEnergia.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\refint\CaminosyEnergia.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\CaminosyEnergia.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\CaminosyEnergia.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\CaminosyEnergia\obj\Debug\net7.0\ref\CaminosyEnergia.dll

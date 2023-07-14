@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\bin\Debug\net7.0\SumaGrande.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\bin\Debug\net7.0\SumaGrande.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\bin\Debug\net7.0\SumaGrande.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\bin\Debug\net7.0\SumaGrande.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\bin\Debug\net7.0\SumaGrande.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\SumaGrande.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\SumaGrande.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\SumaGrande.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\SumaGrande.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\SumaGrande.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\SumaGrande.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\refint\SumaGrande.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\SumaGrande.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\SumaGrande.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaGrande\obj\Debug\net7.0\ref\SumaGrande.dll

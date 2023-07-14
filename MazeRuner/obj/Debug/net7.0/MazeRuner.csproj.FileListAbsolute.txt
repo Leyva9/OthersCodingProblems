@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\bin\Debug\net7.0\MazeRuner.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\bin\Debug\net7.0\MazeRuner.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\bin\Debug\net7.0\MazeRuner.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\bin\Debug\net7.0\MazeRuner.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\bin\Debug\net7.0\MazeRuner.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\MazeRuner.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\MazeRuner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\MazeRuner.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\MazeRuner.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\MazeRuner.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\MazeRuner.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\refint\MazeRuner.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\MazeRuner.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\MazeRuner.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MazeRuner\obj\Debug\net7.0\ref\MazeRuner.dll

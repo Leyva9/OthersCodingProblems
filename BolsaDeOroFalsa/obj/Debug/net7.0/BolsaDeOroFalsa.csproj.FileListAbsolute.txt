@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\bin\Debug\net7.0\BolsaDeOroFalsa.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\bin\Debug\net7.0\BolsaDeOroFalsa.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\bin\Debug\net7.0\BolsaDeOroFalsa.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\bin\Debug\net7.0\BolsaDeOroFalsa.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\bin\Debug\net7.0\BolsaDeOroFalsa.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\BolsaDeOroFalsa.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\BolsaDeOroFalsa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\BolsaDeOroFalsa.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\BolsaDeOroFalsa.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\BolsaDeOroFalsa.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\BolsaDeOroFalsa.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\refint\BolsaDeOroFalsa.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\BolsaDeOroFalsa.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\BolsaDeOroFalsa.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BolsaDeOroFalsa\obj\Debug\net7.0\ref\BolsaDeOroFalsa.dll

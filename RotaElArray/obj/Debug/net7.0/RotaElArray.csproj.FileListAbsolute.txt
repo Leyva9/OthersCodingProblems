@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\bin\Debug\net7.0\RotaElArray.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\bin\Debug\net7.0\RotaElArray.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\bin\Debug\net7.0\RotaElArray.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\bin\Debug\net7.0\RotaElArray.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\bin\Debug\net7.0\RotaElArray.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\RotaElArray.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\RotaElArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\RotaElArray.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\RotaElArray.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\RotaElArray.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\RotaElArray.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\refint\RotaElArray.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\RotaElArray.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\RotaElArray.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\RotaElArray\obj\Debug\net7.0\ref\RotaElArray.dll

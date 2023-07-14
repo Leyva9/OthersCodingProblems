@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\bin\Debug\net7.0\Primos.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\bin\Debug\net7.0\Primos.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\bin\Debug\net7.0\Primos.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\bin\Debug\net7.0\Primos.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\bin\Debug\net7.0\Primos.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\Primos.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\Primos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\Primos.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\Primos.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\Primos.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\Primos.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\refint\Primos.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\Primos.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\Primos.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\Primos\obj\Debug\net7.0\ref\Primos.dll

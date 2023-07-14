@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\bin\Debug\net7.0\OtroIntento.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\bin\Debug\net7.0\OtroIntento.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\bin\Debug\net7.0\OtroIntento.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\bin\Debug\net7.0\OtroIntento.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\bin\Debug\net7.0\OtroIntento.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\OtroIntento.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\OtroIntento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\OtroIntento.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\OtroIntento.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\OtroIntento.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\OtroIntento.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\refint\OtroIntento.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\OtroIntento.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\OtroIntento.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\AereopuertoEnConstruccion\OtroIntento\obj\Debug\net7.0\ref\OtroIntento.dll

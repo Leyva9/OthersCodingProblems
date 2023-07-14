@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\bin\Debug\net7.0\EjerciciosDeLibro.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\bin\Debug\net7.0\EjerciciosDeLibro.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\bin\Debug\net7.0\EjerciciosDeLibro.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\bin\Debug\net7.0\EjerciciosDeLibro.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\bin\Debug\net7.0\EjerciciosDeLibro.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\EjerciciosDeLibro.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\EjerciciosDeLibro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\EjerciciosDeLibro.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\EjerciciosDeLibro.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\EjerciciosDeLibro.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\EjerciciosDeLibro.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\refint\EjerciciosDeLibro.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\EjerciciosDeLibro.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\EjerciciosDeLibro.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjerciciosDeLibro\obj\Debug\net7.0\ref\EjerciciosDeLibro.dll

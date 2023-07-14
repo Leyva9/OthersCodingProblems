@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\EsAnagrama.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\EsAnagrama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\EsAnagrama.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\EsAnagrama.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\EsAnagrama.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\bin\Debug\net7.0\EsAnagrama.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\bin\Debug\net7.0\EsAnagrama.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\bin\Debug\net7.0\EsAnagrama.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\bin\Debug\net7.0\EsAnagrama.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\bin\Debug\net7.0\EsAnagrama.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\EsAnagrama.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\refint\EsAnagrama.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\EsAnagrama.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\EsAnagrama.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EsAnagrama\obj\Debug\net7.0\ref\EsAnagrama.dll

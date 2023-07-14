@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\bin\Debug\net7.0\EjercicioConsonante.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\bin\Debug\net7.0\EjercicioConsonante.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\bin\Debug\net7.0\EjercicioConsonante.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\bin\Debug\net7.0\EjercicioConsonante.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\bin\Debug\net7.0\EjercicioConsonante.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\EjercicioConsonante.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\EjercicioConsonante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\EjercicioConsonante.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\EjercicioConsonante.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\EjercicioConsonante.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\EjercicioConsonante.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\refint\EjercicioConsonante.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\EjercicioConsonante.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\EjercicioConsonante.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\EjercicioConsonante\obj\Debug\net7.0\ref\EjercicioConsonante.dll

@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\bin\Debug\net7.0\DeslizaElArray.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\bin\Debug\net7.0\DeslizaElArray.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\bin\Debug\net7.0\DeslizaElArray.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\bin\Debug\net7.0\DeslizaElArray.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\bin\Debug\net7.0\DeslizaElArray.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\DeslizaElArray.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\DeslizaElArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\DeslizaElArray.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\DeslizaElArray.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\DeslizaElArray.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\DeslizaElArray.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\refint\DeslizaElArray.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\DeslizaElArray.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\DeslizaElArray.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DeslizaElArray\obj\Debug\net7.0\ref\DeslizaElArray.dll

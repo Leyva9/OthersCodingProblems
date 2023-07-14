@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\bin\Debug\net7.0\SumaNumeros.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\bin\Debug\net7.0\SumaNumeros.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\bin\Debug\net7.0\SumaNumeros.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\bin\Debug\net7.0\SumaNumeros.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\bin\Debug\net7.0\SumaNumeros.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\SumaNumeros.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\SumaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\SumaNumeros.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\SumaNumeros.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\SumaNumeros.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\SumaNumeros.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\refint\SumaNumeros.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\SumaNumeros.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\SumaNumeros.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\SumaNumeros\obj\Debug\net7.0\ref\SumaNumeros.dll

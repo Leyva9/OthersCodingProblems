@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\bin\Debug\net7.0\BancoNacional.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\bin\Debug\net7.0\BancoNacional.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\bin\Debug\net7.0\BancoNacional.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\bin\Debug\net7.0\BancoNacional.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\bin\Debug\net7.0\BancoNacional.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\BancoNacional.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\BancoNacional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\BancoNacional.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\BancoNacional.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\BancoNacional.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\BancoNacional.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\refint\BancoNacional.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\BancoNacional.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\BancoNacional.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BancoNacional\obj\Debug\net7.0\ref\BancoNacional.dll

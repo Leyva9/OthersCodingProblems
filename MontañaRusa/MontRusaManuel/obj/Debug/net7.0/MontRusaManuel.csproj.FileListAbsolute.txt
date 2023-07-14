@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\bin\Debug\net7.0\MontRusaManuel.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\bin\Debug\net7.0\MontRusaManuel.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\bin\Debug\net7.0\MontRusaManuel.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\bin\Debug\net7.0\MontRusaManuel.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\bin\Debug\net7.0\MontRusaManuel.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\MontRusaManuel.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\MontRusaManuel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\MontRusaManuel.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\MontRusaManuel.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\MontRusaManuel.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\MontRusaManuel.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\refint\MontRusaManuel.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\MontRusaManuel.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\MontRusaManuel.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontRusaManuel\obj\Debug\net7.0\ref\MontRusaManuel.dll

@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\bin\Debug\net7.0\BuscaLongMasLarga.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\bin\Debug\net7.0\BuscaLongMasLarga.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\bin\Debug\net7.0\BuscaLongMasLarga.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\bin\Debug\net7.0\BuscaLongMasLarga.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\bin\Debug\net7.0\BuscaLongMasLarga.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\BuscaLongMasLarga.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\BuscaLongMasLarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\BuscaLongMasLarga.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\BuscaLongMasLarga.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\BuscaLongMasLarga.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\BuscaLongMasLarga.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\refint\BuscaLongMasLarga.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\BuscaLongMasLarga.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\BuscaLongMasLarga.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\BuscaLongMasLarga\obj\Debug\net7.0\ref\BuscaLongMasLarga.dll

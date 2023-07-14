@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\bin\Debug\net7.0\OrdArrayBloquesCualqTamaño.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\bin\Debug\net7.0\OrdArrayBloquesCualqTamaño.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\bin\Debug\net7.0\OrdArrayBloquesCualqTamaño.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\bin\Debug\net7.0\OrdArrayBloquesCualqTamaño.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\bin\Debug\net7.0\OrdArrayBloquesCualqTamaño.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\OrdArrayBloquesCualqTamaño.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\OrdArrayBloquesCualqTamaño.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\OrdArrayBloquesCualqTamaño.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\OrdArrayBloquesCualqTamaño.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\OrdArrayBloquesCualqTamaño.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\OrdArrayBloquesCualqTamaño.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\refint\OrdArrayBloquesCualqTamaño.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\OrdArrayBloquesCualqTamaño.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\OrdArrayBloquesCualqTamaño.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\OrdArrayBloquesCualqTamaño\obj\Debug\net7.0\ref\OrdArrayBloquesCualqTamaño.dll

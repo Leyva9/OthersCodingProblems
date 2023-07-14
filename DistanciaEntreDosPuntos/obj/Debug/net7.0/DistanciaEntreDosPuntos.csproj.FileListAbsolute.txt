@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\bin\Debug\net7.0\DistanciaEntreDosPuntos.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\bin\Debug\net7.0\DistanciaEntreDosPuntos.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\bin\Debug\net7.0\DistanciaEntreDosPuntos.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\bin\Debug\net7.0\DistanciaEntreDosPuntos.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\bin\Debug\net7.0\DistanciaEntreDosPuntos.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\DistanciaEntreDosPuntos.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\DistanciaEntreDosPuntos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\DistanciaEntreDosPuntos.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\DistanciaEntreDosPuntos.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\DistanciaEntreDosPuntos.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\DistanciaEntreDosPuntos.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\refint\DistanciaEntreDosPuntos.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\DistanciaEntreDosPuntos.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\DistanciaEntreDosPuntos.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\DistanciaEntreDosPuntos\obj\Debug\net7.0\ref\DistanciaEntreDosPuntos.dll

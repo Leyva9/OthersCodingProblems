@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\MontañaRusaNew.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\MontañaRusaNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\MontañaRusaNew.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\MontañaRusaNew.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\MontañaRusaNew.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\bin\Debug\net7.0\MontañaRusaNew.exe
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\bin\Debug\net7.0\MontañaRusaNew.deps.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\bin\Debug\net7.0\MontañaRusaNew.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\bin\Debug\net7.0\MontañaRusaNew.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\bin\Debug\net7.0\MontañaRusaNew.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\MontañaRusaNew.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\refint\MontañaRusaNew.dll
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\MontañaRusaNew.pdb
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\MontañaRusaNew.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\EjerciciosCasa\MontañaRusaNew\obj\Debug\net7.0\ref\MontañaRusaNew.dll
